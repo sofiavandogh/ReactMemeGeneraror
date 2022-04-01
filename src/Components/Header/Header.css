@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, #2a0845, #6441A5);
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+header > h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 0px;
+    padding-top: 22px;
+}
